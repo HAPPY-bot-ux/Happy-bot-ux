@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Happy Ndlovu
 
-Welcome to my GitHub profile! I'm a passionate system development student and a web developer aiming to create impactful digital experiences. Check out my repositories to see what I've been working on! 🚀
+Welcome to my GitHub profile! I'm a passionate system development student, a freelance Full-Stack Developer, and a web developer aiming to create impactful digital experiences. Check out my repositories to see what I've been working on! 🚀
 
 ---
 
@@ -16,6 +16,9 @@ Here are the technologies I use:
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
@@ -25,24 +28,22 @@ Here are the technologies I use:
 Feel free to connect with me on social media or reach out for collaborations:
 
 <p align="left">
-  <a href="https://github.com/your-github-profile" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://linkedin.com/in/happy-ndlovu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/callmi_ray" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Projects and Achievements
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
+- **Freelance Full-Stack Development:** Successfully delivered over 20 full-stack projects for clients, including e-commerce platforms, portfolio websites, and web applications.
+- **Digital Marketing Expertise:** Developed websites for digital marketing agencies, optimizing for SEO and user engagement.
+- **Team Collaboration:** Worked with cross-functional teams to create scalable and user-friendly applications.
+- **Teaching HTML Fundamentals:** Empowered learners with hands-on lessons in web development basics.
 
 ---
 
