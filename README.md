@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Happy Ndlovu  
+# Happy-bot-ux
 
 Welcome to my GitHub profile! I'm a passionate system development student, a freelance Full-Stack Developer, and a web developer aiming to create impactful digital experiences. Check out my repositories to see what I've been working on! 🚀  
 
