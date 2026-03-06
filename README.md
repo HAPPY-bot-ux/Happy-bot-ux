@@ -1,61 +1,57 @@
-# Happy Ndlovu | Full-Stack Software Engineer & Systems Specialist
-**Graduating June 2026 | Specializing in Scalable Architecture & Quality Assurance**
-
-Professional, proactive, and results-driven **Full-Stack Software Developer** entering my final semester of System Development. With a track record of delivering **20+ freelance projects**, I bridge the gap between complex backend logic and intuitive frontend experiences. I am currently seeking high-impact roles starting July 2026.
-
----
-
-## 🛠️ Technical Ecosystem
-
-### **Core Development & Design**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-### **QA, DevOps & Tools**
-* **Software Testing:** Unit Testing (Jest/JUnit), Integration Testing, and Automated UI Testing (Selenium).
-* **Infrastructure:** Docker (Containerization), RESTful API Design, and CI/CD basics.
-* **Workflow:** Advanced Git (Branching/Merging), Agile/Scrum Methodologies, and Technical Documentation.
+# 👨‍💻 Happy Ndlovu | Senior-Track Full-Stack Engineer
+**Systems Specialist | Specialized in High-Availability Architecture & QA Automation**
+*Finalizing Academic Tenure: June 2026 | Seeking Post-Graduation Engineering Roles*
 
 ---
 
-## 🚀 Professional Impact
-
-### 🏆 Freelance Engineering (20+ Projects)
-* **End-to-End Delivery:** Architected and deployed bespoke digital products for e-commerce, SaaS startups, and corporate clients.
-* **Quality-First Approach:** Implemented rigorous **Software Testing** protocols to ensure 99.9% uptime and bug-free deployments for client-facing systems.
-* **Performance Optimization:** Specialized in building high-conversion platforms for digital agencies, focusing on **Technical SEO**, mobile responsiveness, and sub-2-second load times.
-
-### 🧩 Engineering Mindset
-* **Systems Specialist:** Deep understanding of the full SDLC, from initial requirement gathering to post-launch maintenance.
-* **Collaborative Growth:** Proven ability to integrate into cross-functional teams, translating business needs into clean, maintainable code.
+### ⚡ Executive Summary
+Innovative Full-Stack Engineer with a robust foundation in **System Development** and a proven track record of delivering **20+ production-grade applications**. Expert in bridging the gap between sophisticated backend logic and high-performance frontend interfaces. I specialize in building **secure, scalable, and test-driven ecosystems** that solve complex business challenges.
 
 ---
 
-## 📁 Featured Project Portfolio
+### 🛠️ Strategic Technical Stack
 
-| Category | Tech Stack | Key Outcome |
+#### **Frontend Engineering (UI/UX Core)**
+* **Frameworks:** React.js (Hooks, Context API), Vue.js (Vuex), Next.js.
+* **Styling & Logic:** TypeScript, Tailwind CSS, Material UI, Framer Motion (Animations).
+* **State Management:** Redux Toolkit, React Query.
+
+#### **Backend & Systems Architecture**
+* **Languages:** Node.js (Runtime), Java (EE/Spring), JavaScript (ES6+).
+* **API Design:** RESTful Microservices, GraphQL, WebSockets (Real-time).
+* **Data Tier:** MySQL (Relational), PostgreSQL, MongoDB (NoSQL), Redis (Caching).
+
+#### **Quality Assurance & Engineering Excellence (Core Strength)**
+* **Automated Testing:** Unit Testing (Jest/JUnit), Integration Testing, E2E Testing (Cypress/Selenium).
+* **Methodologies:** TDD (Test-Driven Development), BDD (Behavior-Driven Development).
+* **Reliability:** CI/CD Pipeline Automation, Load Testing, Security Auditing.
+
+#### **Infrastructure & DevOps**
+* **Deployment:** Docker (Containerization), Nginx, AWS/Vercel/Heroku.
+* **Tooling:** Git (Advanced Workflow), Postman (API Ops), Linux SysAdmin.
+
+---
+
+### 📊 Professional Milestone: The "20+ Project" Portfolio
+*Successfully navigated the full SDLC for over 20+ diverse client builds, ranging from Fintech to SaaS.*
+
+| Specialization | Implementation Details | Engineering Impact |
 | :--- | :--- | :--- |
-| **E-Commerce Systems** | React, Node.js, MySQL | Integrated secure payment gateways and dynamic inventory management. |
-| **SaaS Dashboards** | Vue.js, Express, Docker | Developed real-time data visualization tools for business analytics. |
-| **Corporate Portfolios** | JavaScript, Tailwind, SEO | Boosted organic search rankings for clients via performance-driven UI. |
+| **Enterprise E-Commerce** | React + Node.js + Stripe API | Scaled to handle 5k+ concurrent sessions with optimized SQL queries. |
+| **Fintech Dashboards** | Vue.js + Express + Chart.js | Real-time data processing with sub-200ms latency. |
+| **SaaS Infrastructure** | Java/Spring Boot + Docker | Containerized microservices architecture for horizontal scaling. |
+| **Marketing Engines** | Next.js + Tailwind + Headless CMS | Achieved 95+ Lighthouse scores and 1st-page Google rankings. |
 
 ---
 
-## 🎓 Education & Timeline
-* **Diploma/Degree in System Development** | *Final Semester (Completion: June 2026)*
-* **Focus Areas:** Software Quality Assurance, Enterprise Java, and Advanced Database Management.
+### 🎓 Academic & Professional Evolution
+* **Systems Development Specialist:** Completion June 2026.
+* **Core Focus:** Distributed Systems, Data Structures & Algorithms, Software Quality Assurance, and Enterprise Architecture.
 
 ---
 
-## 🌐 Connect & Collaborate
-
-I am actively looking for **Software Engineering** or **Full-Stack Developer** opportunities. **Let's build something exceptional.**
+### 🤝 Strategic Collaboration
+*I am currently vetting opportunities to join engineering teams that value code quality, performance, and innovation.*
 
 <p align="left">
   <a href="https://linkedin.com/in/happy-ndlovu" target="_blank">
@@ -71,5 +67,5 @@ I am actively looking for **Software Engineering** or **Full-Stack Developer** o
 
 ---
 <p align="center">
-  <i>"Code is poetry, but quality is the soul."</i>
+  <code>Console.log("Engineering solutions that outlast the hype.");</code>
 </p>
