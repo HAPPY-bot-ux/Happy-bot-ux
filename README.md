@@ -1,103 +1,71 @@
 <div align="center">
 
-# ⚡ HAPPY NDLOVU
+# ✦ HAPPY NDLOVU ✦
 ### **Full-Stack Software Engineer | Systems Architect | QA Automation Specialist**
 *(Completing Systems Development Residency — June 2026)*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/happy-ndlovu)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:happyjabu165@gmail.com)
+<br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello%2C+World%22);;console.log('Code.+Architect.+Scale.');;print(%22Engineering+Excellence%22)" alt="Typing SVG" />
 
-> **"Engineering is not just about writing code; it's about architecting solutions that scale, survive, and succeed."**
+<br>
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://linkedin.com/in/happy-ndlovu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/happyndlovu)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black)](https://instagram.com/happy.ndlovu.dev)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=black)](https://tiktok.com/@happy.codes)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:happyjabu165@gmail.com)
 
-## 🔭 Executive Overview
-Highly technical **Full-Stack Engineer** with a deep specialization in **Systems Development**. With **20+ production-grade projects** delivered to date, I specialize in building high-concurrency applications, implementing robust **CI/CD pipelines**, and ensuring 100% code reliability through **Advanced Software Testing (TDD/BDD)**.
+<br>
 
----
-
-## 🛠️ The Engineering Stack
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 Frontend Excellence</h4>
-      <ul>
-        <li><b>Frameworks:</b> React.js, Next.js, Vue.js 3</li>
-        <li><b>State:</b> Redux Toolkit, TanStack Query</li>
-        <li><b>Styling:</b> Tailwind CSS, Material UI, Framer Motion</li>
-        <li><b>Logic:</b> TypeScript (Type-Safe Development)</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Backend & Systems</h4>
-      <ul>
-        <li><b>Runtimes:</b> Node.js (Express/NestJS), Java EE</li>
-        <li><b>Architecture:</b> Microservices, RESTful APIs, MVC</li>
-        <li><b>Database:</b> PostgreSQL, MySQL, Redis (Caching)</li>
-        <li><b>Security:</b> JWT, OAuth2, Bcrypt Encryption</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧪 Quality Assurance (QA)</h4>
-      <ul>
-        <li><b>Unit Testing:</b> Jest, JUnit, Mocha</li>
-        <li><b>End-to-End:</b> Cypress, Selenium, Playwright</li>
-        <li><b>Methodology:</b> Test-Driven Development (TDD)</li>
-        <li><b>Reporting:</b> Istanbul (Code Coverage), SonarQube</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>☁️ DevOps & Environment</h4>
-      <ul>
-        <li><b>Containers:</b> Docker, Docker-Compose</li>
-        <li><b>Version Control:</b> Advanced Git (GitFlow)</li>
-        <li><b>Deployment:</b> AWS (EC2/S3), Vercel, Nginx</li>
-        <li><b>OS:</b> Linux (Ubuntu/Debian) System Admin</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 Strategic Project Milestone: "The 20+ Club"
-*A snapshot of high-impact engineering deliveries.*
-
-| Project | Core Tech | Engineering Highlight |
-| :--- | :--- | :--- |
-| **SaaS Enterprise Engine** | Next.js • PostgreSQL | Implemented RBAC (Role-Based Access Control) & SSR. |
-| **Fintech Payment Hub** | Node.js • Stripe • Jest | Achieved 98% unit test coverage for transaction logic. |
-| **E-Commerce Scaling** | React • Java Spring | Optimized database indexing, reducing query time by 60%. |
-| **Real-time Analytics** | Vue.js • WebSockets | Built live data-streaming dashboard with <100ms lag. |
-
----
-
-## 🎓 Academic Roadmap
-* **Major:** System Development (Final Semester)
-* **Status:** Graduating June 2026
-* **Key Focus:** Distributed Systems, Data Structures, Software Quality Engineering.
-
----
-
-## 📊 GitHub Ecosystem
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true" alt="Happy's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-<div align="center">
-
-### ⚡ Ready to Engineer the Future
-*Currently accepting interview invitations for roles starting July 2026.*
-
-`System.out.println("Let's build something scalable.");`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
+
+```javascript
+const happy = {
+    title: "⚡ Engineering Lead • Systems Architect",
+    mission: "Building tomorrow's infrastructure, today",
+    
+    location: "South Africa [CEST +2]",
+    availability: "Open for July 2026 opportunities",
+    
+    philosophy: "Code is poetry compiled to reality",
+    
+    currentFocus: [
+        "Distributed Systems Architecture",
+        "High-Concurrency Backend Design",
+        "AI-Enhanced Development Pipelines"
+    ],
+    
+    funFact: "I break code professionally so production stays unbroken 😈"
+};╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║    FRONTEND          BACKEND           QA            DEVOPS      ║
+║    ⚛️ React         🟢 Node.js        🧪 Jest        🐳 Docker   ║
+║    🔷 Next.js       ⚡ Express        🔥 Cypress     ☁️ AWS      ║
+║    💚 Vue 3         🍃 Spring Boot    📊 SonarQube   🔄 CI/CD    ║
+║    📘 TypeScript    🗄️ PostgreSQL     📈 TDD/BDD     🐧 Linux    ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝</div><table align="center" width="100%" border="0"> <tr> <td width="25%" align="center"><img src="https://skillicons.dev/icons?i=react" width="48" /><br><b>React</b></td> <td width="25%" align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="48" /><br><b>Next.js</b></td> <td width="25%" align="center"><img src="https://skillicons.dev/icons?i=vue" width="48" /><br><b>Vue.js</b></td> <td width="25%" align="center"><img src="https://skillicons.dev/icons?i=ts" width="48" /><br><b>TypeScript</b></td> </tr> <tr> <td width="25%" align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br><b>Node.js</b></td> <td width="25%" align="center"><img src="https://skillicons.dev/icons?i=express" width="48" /><br><b>Express</b></td> <td width="25%" align="center"><img src="https://skillicons.dev/icons?i=spring" width="48" /><br><b>Spring</b></td> <td width="25%" align="center"><img src="https://skillicons.dev/icons?i=java" width="48" /><br><b>Java</b></td> </tr> <tr> <td width="25%" align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48" /><br><b>PostgreSQL</b></td> <td width="25%" align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48" /><br><b>MySQL</b></td> <td width="25%" align="center"><img src="https://skillicons.dev/icons?i=redis" width="48" /><br><b>Redis</b></td> <td width="25%" align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48" /><br><b>MongoDB</b></td> </tr> <tr> <td width="25%" align="center"><img src="https://skillicons.dev/icons?i=jest" width="48" /><br><b>Jest</b></td> <td width="25%" align="center"><img src="https://skillicons.dev/icons?i=cypress" width="48" /><br><b>Cypress</b></td> <td width="25%" align="center"><img src="https://skillicons.dev/icons?i=docker" width="48" /><br><b>Docker</b></td> <td width="25%" align="center"><img src="https://skillicons.dev/icons?i=aws" width="48" /><br><b>AWS</b></td> </tr> <tr> <td width="25%" align="center"><img src="https://skillicons.dev/icons?i=git" width="48" /><br><b>Git</b></td> <td width="25%" align="center"><img src="https://skillicons.dev/icons?i=linux" width="48" /><br><b>Linux</b></td> <td width="25%" align="center"><img src="https://skillicons.dev/icons?i=nginx" width="48" /><br><b>Nginx</b></td> <td width="25%" align="center"><img src="https://skillicons.dev/icons?i=redux" width="48" /><br><b>Redux</b></td> </tr> </table>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> <div align="center">
+Project	Tech Stack	Impact
+<b>🏦 FinCore Banking</b>	Java Spring, PostgreSQL, Redis	99.99% uptime • 10k+ daily transactions
+<b>📊 Analytix Dashboard</b>	Next.js, WebSockets, D3.js	Real-time data • <100ms latency
+<b>🛍️ ScaleCart E-Commerce</b>	React, Node.js, MongoDB	60% faster queries • 50k+ users
+<b>🔐 SecureAuth Gateway</b>	NestJS, JWT, OAuth2	Enterprise SSO • Zero breaches
+<b>📱 DevCollab Hub</b>	Vue 3, Express, Socket.io	500+ active teams • Live collaboration
+<b>🤖 AI Support Engine</b>	Python, TensorFlow, React	24/7 automation • 85% resolution rate
+</div><div align="center">
+https://github-readme-activity-graph.vercel.app/graph?username=happyndlovu&theme=tokyo-night&hide_border=true&area=true
+
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=happyndlovu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=happyndlovu&theme=tokyonight&hide_border=true" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyndlovu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> <img width="45%" src="https://github-profile-trophy.vercel.app/?username=happyndlovu&theme=tokyonight&no-frame=true&row=2&column=4" /></div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+    ███████╗███╗   ██╗ ██████╗ ██╗███╗   ██╗███████╗███████╗██████╗ 
+    ██╔════╝████╗  ██║██╔════╝ ██║████╗  ██║██╔════╝██╔════╝██╔══██╗
+    █████╗  ██╔██╗ ██║██║  ███╗██║██╔██╗ ██║█████╗  █████╗  ██████╔╝
+    ██╔══╝  ██║╚██╗██║██║   ██║██║██║╚██╗██║██╔══╝  ██╔══╝  ██╔══██╗
+    ███████╗██║ ╚████║╚██████╔╝██║██║ ╚████║███████╗███████╗██║  ██║
+    ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
