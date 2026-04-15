@@ -1,115 +1,91 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=kashida&color=00F7FF&height=200&section=header&text=HAPPY%20NDLOVU&fontSize=80&fontAlignY=35&animation=fadeIn&desc=SYSTEM%20ARCHITECT%20%7C%20FULL-STACK%20ENGINEER&descSize=20&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=HAPPY%20NDLOVU&fontSize=90&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%E2%97%8F%20SYSTEM%20ARCHITECT%20%E2%97%8F%20QA%20STRATEGIST&descSize=20&descAlignY=62" width="100%" />
+
+  <br />
 
   <p align="center">
-    <a href="https://linkedin.com/in/happy-ndlovu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:happyjabu165@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/happyndlovu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://happy-ndlovu.dev"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=ko-fi&logoColor=black" /></a>
+    <img src="https://img.shields.io/badge/Contributions-199_Commits-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/Location-South_Africa-FFCD00?style=for-the-badge&logo=googlemaps&logoColor=black" />
+    <img src="https://img.shields.io/badge/Status-Active_Architecture-green?style=for-the-badge&logo=render&logoColor=white" />
   </p>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Infrastructures;Full-Stack+Systems+Engineering;QA+Automation+%26+Security;The+Poetry+of+Logic" alt="Typing SVG" />
 </div>
 
 ---
 
-### ⚡ Executive Summary
-**A versatile Engineer specializing in the design and implementation of high-concurrency distributed systems.** I bridge the gap between creative frontend architecture and robust backend infrastructure. With a residency in Systems Development concluding in June 2026, my focus is on engineering software that scales, survives, and succeeds.
+### 📥 System Overview
+> **Core Objective:** Engineering resilient, high-concurrency systems that bridge the gap between complex backend logic and intuitive user experiences. Currently finishing a Systems Development residency (June 2026).
 
 ---
 
-### 🛠️ Technical Arsenal (Full Stack & Beyond)
-
-<div align="center">
-  
-  #### 🌐 Frontend Logic & Design
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,redux,sass" />
-
-  <br>
-
-  #### ⚙️ Backend & Persistence Layer
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,nestjs,postgres,mongodb,mysql,redis" />
-
-  <br>
-
-  #### 🛡️ DevOps, Security & Infrastructure
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github,githubactions,jest,cypress,selenium" />
-
-  <br>
-
-  #### 🕹️ Specialized Expertise
-  <img src="https://skillicons.dev/icons?i=bash,powershell,postman,figma,vscode,idea,pycharm,discord" />
-
-</div>
-
----
-
-### 🏗️ Architectural Case Studies
+### 🛠️ Technical Arsenal (Multistack Deployment)
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h4>🏦 FinCore Banking Platform</h4>
-      <ul>
-        <li><b>Objective:</b> High-availability ledger system</li>
-        <li><b>Impact:</b> 10k+ daily transactions | 99.99% Uptime</li>
-        <li><b>Stack:</b> <code>Spring Boot</code> <code>Redis</code> <code>PostgreSQL</code></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📊 Analytix Dashboard</h4>
-      <ul>
-        <li><b>Objective:</b> Real-time data visualization engine</li>
-        <li><b>Impact:</b> WebSocket sub-100ms latency metrics</li>
-        <li><b>Stack:</b> <code>Next.js</code> <code>D3.js</code> <code>WebSockets</code></li>
-      </ul>
-    </td>
+    <td align="center" width="25%"><strong>Frontend Engine</strong></td>
+    <td align="center" width="25%"><strong>Backend Core</strong></td>
+    <td align="center" width="25%"><strong>Data & DevOps</strong></td>
+    <td align="center" width="25%"><strong>Testing & QA</strong></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🔐 SecureAuth Gateway</h4>
-      <ul>
-        <li><b>Objective:</b> Enterprise Identity Management</li>
-        <li><b>Impact:</b> Zero breaches | OAuth2 / JWT Integration</li>
-        <li><b>Stack:</b> <code>NestJS</code> <code>Passport.js</code> <code>Docker</code></li>
-      </ul>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,redux,sass" />
     </td>
-    <td width="50%" valign="top">
-      <h4>🤖 AI Support Engine</h4>
-      <ul>
-        <li><b>Objective:</b> Automated Customer Service Agent</li>
-        <li><b>Impact:</b> 85% Resolution Rate | 24/7 Automation</li>
-        <li><b>Stack:</b> <code>Python</code> <code>TensorFlow</code> <code>React</code></li>
-      </ul>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,nestjs,fastapi,go" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,aws,linux,nginx" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=jest,cypress,selenium,githubactions,postman,powershell" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 System Vital Signs (Metrics)
+### 🏗️ Architectural Portfolio (Live Deployments)
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=happyndlovu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=happyndlovu&theme=tokyonight&hide_border=true" />
-</div>
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyndlovu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=happyndlovu&theme=tokyonight&no-frame=true&row=2&column=4" />
+| Project | Core Stack | Engineering Impact |
+| :--- | :--- | :--- |
+| **🏦 FinCore Banking** | `Spring Boot` `Redis` | Processed 10k+ daily transactions with 99.99% uptime. |
+| **📊 Analytix Dashboard** | `Next.js` `WebSockets` | Real-time telemetry visualization with <100ms latency. |
+| **🛍️ ScaleCart E-Comm** | `Node.js` `MongoDB` | Optimized query performance by 60% for 50k+ user base. |
+| **🔐 SecureAuth Gateway** | `NestJS` `JWT` | Implemented Enterprise SSO with zero security breaches. |
+| **🤖 AI Support Engine** | `Python` `TensorFlow` | Automated 85% of tier-1 support via NLP integration. |
+
 </div>
 
 ---
 
-### 📡 Network Status
-```json
-{
-  "current_status": "Ready for July 2026 Engagement",
-  "location": "South Africa [GMT+2]",
-  "specialties": [
-    "Distributed Systems",
-    "Automation Frameworks",
-    "Security-First Engineering"
-  ],
-  "contact": "happyjabu165@gmail.com"
-}
+### 📊 Engineering Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=happyndlovu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="400px"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyndlovu&layout=compact&theme=tokyonight&hide_border=true" width="400px"/></td>
+    </tr>
+    <tr>
+      <td colspan="2"><img src="https://github-readme-activity-graph.vercel.app/graph?username=happyndlovu&theme=tokyo-night&hide_border=true&area=true" width="820px"/></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📡 System Connectivity
+```javascript
+const Happy_Ndlovu = {
+    role: "Full-Stack Engineer",
+    location: "Sandton / Kraaifontein, ZA",
+    availability: "Q3 2026 [High Demand]",
+    philosophy: "I break systems in QA so they never break in Production.",
+    metrics: {
+        contributions: 199,
+        uptime: "99.9%",
+        coffee_to_code_ratio: "Infinity"
+    }
+};
