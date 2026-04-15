@@ -1,78 +1,93 @@
 <div align="center">
-  
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=HAPPY+NDLOVU;FULL-STACK+ENGINEER;SYSTEMS+ARCHITECT;QA+AUTOMATION+SPECIALIST;BUILDING+SCALE" alt="Hero Typing" />
 
-<br>
+# 🚀 SYSTEM ARCHITECT // FULL-STACK ENGINEER
+### **HAPPY NDLOVU**
+**Engineering robust, scalable, and mission-critical distributed systems.**
 
-<img src="https://img.shields.io/badge/STATUS-EXECUTION_READY-00F7FF?style=for-the-badge&labelColor=0A0A0A&color=00F7FF"/>
-<img src="https://img.shields.io/badge/AVAILABLE-JULY_2026-FFFFFF?style=for-the-badge&labelColor=0A0A0A&color=FFFFFF"/>
-<img src="https://img.shields.io/badge/LOCATION-SOUTH_AFRICA-00F7FF?style=for-the-badge&labelColor=0A0A0A&color=00F7FF"/>
+[![](https://visit-counter.vercel.app/counter.png?page=happyndlovu&color=00F7FF&style=flat-square&label=SYSTEM_ACCESSES)]()
 
-<br><br>
+<p align="center">
+  <a href="https://linkedin.com/in/happy-ndlovu"><b>LinkedIn</b></a> •
+  <a href="mailto:happyjabu165@gmail.com"><b>Email</b></a> •
+  <a href="https://github.com/happyndlovu"><b>Portfolio</b></a> •
+  <a href="https://instagram.com/happy.ndlovu.dev"><b>Dev Log</b></a>
+</p>
 
-<!-- GLASS MORPHISM PROFILE CARD -->
-<table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" style="background: linear-gradient(135deg, rgba(0,247,255,0.05) 0%, rgba(0,0,0,0.8) 100%); border-radius: 32px; backdrop-filter: blur(10px);">
-  <tr>
-    <td align="center" width="60%" valign="top" style="padding: 40px;">
-      <pre style="font-family: 'JetBrains Mono', monospace; color: #00F7FF; text-align: left; background: transparent; border: none;">
-<span style="color: #FFD700;">┌─────────────────────────────────────────────────────────────┐</span>
-<span style="color: #00F7FF;">│  <span style="color: #FFFFFF;">>_</span> whoami                                              │</span>
-<span style="color: #FFD700;">├─────────────────────────────────────────────────────────────┤</span>
-<span style="color: #00F7FF;">│                                                             │</span>
-<span style="color: #00F7FF;">│  <span style="color: #FFFFFF;">• NAME</span>         Happy Ndlovu                              │</span>
-<span style="color: #00F7FF;">│  <span style="color: #FFFFFF;">• ROLE</span>         Engineering Lead / Systems Architect       │</span>
-<span style="color: #00F7FF;">│  <span style="color: #FFFFFF;">• MISSION</span>      <span style="color: #FFD700;">"Building tomorrow's infrastructure, today"</span>  │</span>
-<span style="color: #00F7FF;">│  <span style="color: #FFFFFF;">• EXPERIENCE</span>   5+ Years Full-Stack Development           │</span>
-<span style="color: #00F7FF;">│  <span style="color: #FFFFFF;">• SPECIALTY</span>    High-Concurrency / Distributed Systems     │</span>
-<span style="color: #00F7FF;">│  <span style="color: #FFFFFF;">• AVAILABLE</span>    July 2026 (Open for Senior/Staff roles)    │</span>
-<span style="color: #00F7FF;">│                                                             │</span>
-<span style="color: #FFD700;">└─────────────────────────────────────────────────────────────┘</span>
-      </pre>
-    </td>
-    <td align="center" width="40%" valign="middle" style="padding: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=happyndlovu&show_icons=true&theme=dark&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&hide_border=true&hide_title=true&card_width=200" />
-      <br>
-      <img src="https://komarev.com/ghpvc/?username=happyndlovu&label=PROFILE+VIEWS&color=00F7FF&style=flat-square" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=System.init(%22Engineering+Excellence%22);;const+Architect+=+new+Engineer();;while(true)+{+optimize();+}" alt="Typing SVG" />
 
 </div>
 
-## ◆ TECHNICAL COMMAND CENTER
+---
 
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                      ║
-║   ██████╗ ████████╗ █████╗  ██████╗██╗  ██╗    ██╗███████╗██╗   ██╗███████╗████████╗ ║
-║   ██╔══██╗╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝    ██║██╔════╝██║   ██║██╔════╝╚══██╔══╝ ║
-║   ██████╔╝   ██║   ███████║██║     █████╔╝     ██║███████╗██║   ██║█████╗     ██║    ║
-║   ██╔══██╗   ██║   ██╔══██║██║     ██╔═██╗ ██  ██║╚════██║╚██╗ ██╔╝██╔══╝     ██║    ║
-║   ██║  ██║   ██║   ██║  ██║╚██████╗██║  ██╗╚█████╔╝███████║ ╚████╔╝ ███████╗   ██║    ║
-║   ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝ ╚════╝ ╚══════╝  ╚═══╝  ╚══════╝   ╚═╝    ║
-║                                                                                      ║
-╚══════════════════════════════════════════════════════════════════════════════════════╝
+## ⚡ Technical Manifest
+> "Code is the poetry of logic; architecture is the foundation of reality."
 
-const q2_2025 = {
-  residency: { task: "Systems Development", progress: 80, eta: "June 2026" },
-  certification: { task: "AWS Solutions Architect Pro", progress: 60, eta: "Q3 2025" },
-  learning: { task: "Kubernetes Advanced Patterns", progress: 75, eta: "Q2 2025" },
-  research: { task: "LLM Fine-tuning for Code Gen", progress: 40, eta: "Q4 2025" }
-};
+I am a Full-Stack Software Engineer specializing in **high-concurrency backend design** and **automated QA ecosystems**. Currently finalizing a Systems Development residency (June 2026), my focus lies at the intersection of developer experience (DevEx) and system reliability.
 
-// Actively seeking July 2026 opportunities
-const openToWork = {
-  roles: ["Senior Software Engineer", "Systems Architect", "Tech Lead"],
-  relocation: true,
-  remote: true,
-  contact: "happyjabu165@gmail.com"
-};
+### 🛠 Core Operating Stack
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-◆ CONNECT WITH ME
-<div align="center"> <a href="https://linkedin.com/in/happy-ndlovu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A"/></a> <a href="https://github.com/happyndlovu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A"/></a> <a href="https://instagram.com/happy.ndlovu.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0A0A"/></a> <a href="https://tiktok.com/@happy.codes"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0A0A0A"/></a> <a href="mailto:happyjabu165@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A"/></a> </div>
-<div align="center"> <pre style="background: #0A0A0A; padding: 20px; border-radius: 16px; color: #00F7FF; font-family: monospace;"> ╔═══════════════════════════════════════════════════════════════════════════╗ ║ 🚀 "Code is poetry compiled to reality. Let's build something legendary." ║ ║ ║ ║ 📅 Available July 2026 | 🌍 Global Remote | ✈️ Willing to relocate ║ ╚═══════════════════════════════════════════════════════════════════════════╝ </pre> </div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer&animation=twinkling" width="100%"/> </div> ```
+| Layer | Technologies |
+| :--- | :--- |
+| **Frontend** | `React` `Next.js` `Vue 3` `TypeScript` `TailwindCSS` |
+| **Backend** | `Node.js` `Spring Boot` `Express` `Java` `Python` |
+| **Persistence** | `PostgreSQL` `Redis` `MongoDB` `MySQL` |
+| **DevOps & QA** | `Docker` `AWS` `CI/CD Pipelines` `Jest` `Cypress` `Linux` |
+
+---
+
+## 🏗 System Architecture & Featured Projects
+
+<table border="0">
+ <tr>
+    <td>
+      <h3>🏦 FinCore Banking</h3>
+      <p>High-availability banking core processing 10k+ daily transactions with 99.99% uptime.</p>
+      <code>Spring Boot</code> <code>PostgreSQL</code> <code>Redis</code>
+    </td>
+    <td>
+      <h3>📊 Analytix Dashboard</h3>
+      <p>Real-time data visualization engine with sub-100ms latency via WebSockets.</p>
+      <code>Next.js</code> <code>D3.js</code> <code>Socket.io</code>
+    </td>
+ </tr>
+ <tr>
+    <td>
+      <h3>🔐 SecureAuth Gateway</h3>
+      <p>Enterprise-grade SSO and identity management using JWT and OAuth2 protocols.</p>
+      <code>NestJS</code> <code>Passport.js</code> <code>Auth0</code>
+    </td>
+    <td>
+      <h3>🤖 AI Support Engine</h3>
+      <p>Automated resolution system reducing manual support overhead by 85%.</p>
+      <code>Python</code> <code>TensorFlow</code> <code>React</code>
+    </td>
+ </tr>
+</table>
+
+---
+
+## 📈 Engineering Metrics
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=happyndlovu&theme=tokyo-night&hide_border=true&area=true)
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=happyndlovu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=happyndlovu&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🧩 The Philosophy
+* **Performance First:** If it’s not fast, it’s not finished.
+* **Security by Design:** Penetration testing isn't an afterthought; it's the blueprint.
+* **Clean Code:** Written for humans to read and machines to execute.
+
+```javascript
+{
+  "status": "Available for July 2026 Opportunities",
+  "location": "Sandton / Cape Town, ZA",
+  "specialties": ["Distributed Systems", "Cloud Infrastructure", "QA Automation"],
+  "funFact": "I break code professionally to ensure production stays unbreakable."
+}
