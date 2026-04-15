@@ -1,91 +1,78 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=HAPPY%20NDLOVU&fontSize=90&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%E2%97%8F%20SYSTEM%20ARCHITECT%20%E2%97%8F%20QA%20STRATEGIST&descSize=20&descAlignY=62" width="100%" />
+  
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=HAPPY+NDLOVU;FULL-STACK+ENGINEER;SYSTEMS+ARCHITECT;QA+AUTOMATION+SPECIALIST;BUILDING+SCALE" alt="Hero Typing" />
 
-  <br />
+<br>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Contributions-199_Commits-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
-    <img src="https://img.shields.io/badge/Location-South_Africa-FFCD00?style=for-the-badge&logo=googlemaps&logoColor=black" />
-    <img src="https://img.shields.io/badge/Status-Active_Architecture-green?style=for-the-badge&logo=render&logoColor=white" />
-  </p>
-</div>
+<img src="https://img.shields.io/badge/STATUS-EXECUTION_READY-00F7FF?style=for-the-badge&labelColor=0A0A0A&color=00F7FF"/>
+<img src="https://img.shields.io/badge/AVAILABLE-JULY_2026-FFFFFF?style=for-the-badge&labelColor=0A0A0A&color=FFFFFF"/>
+<img src="https://img.shields.io/badge/LOCATION-SOUTH_AFRICA-00F7FF?style=for-the-badge&labelColor=0A0A0A&color=00F7FF"/>
 
----
+<br><br>
 
-### 📥 System Overview
-> **Core Objective:** Engineering resilient, high-concurrency systems that bridge the gap between complex backend logic and intuitive user experiences. Currently finishing a Systems Development residency (June 2026).
-
----
-
-### 🛠️ Technical Arsenal (Multistack Deployment)
-
-<table align="center" width="100%">
+<!-- GLASS MORPHISM PROFILE CARD -->
+<table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" style="background: linear-gradient(135deg, rgba(0,247,255,0.05) 0%, rgba(0,0,0,0.8) 100%); border-radius: 32px; backdrop-filter: blur(10px);">
   <tr>
-    <td align="center" width="25%"><strong>Frontend Engine</strong></td>
-    <td align="center" width="25%"><strong>Backend Core</strong></td>
-    <td align="center" width="25%"><strong>Data & DevOps</strong></td>
-    <td align="center" width="25%"><strong>Testing & QA</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,redux,sass" />
+    <td align="center" width="60%" valign="top" style="padding: 40px;">
+      <pre style="font-family: 'JetBrains Mono', monospace; color: #00F7FF; text-align: left; background: transparent; border: none;">
+<span style="color: #FFD700;">┌─────────────────────────────────────────────────────────────┐</span>
+<span style="color: #00F7FF;">│  <span style="color: #FFFFFF;">>_</span> whoami                                              │</span>
+<span style="color: #FFD700;">├─────────────────────────────────────────────────────────────┤</span>
+<span style="color: #00F7FF;">│                                                             │</span>
+<span style="color: #00F7FF;">│  <span style="color: #FFFFFF;">• NAME</span>         Happy Ndlovu                              │</span>
+<span style="color: #00F7FF;">│  <span style="color: #FFFFFF;">• ROLE</span>         Engineering Lead / Systems Architect       │</span>
+<span style="color: #00F7FF;">│  <span style="color: #FFFFFF;">• MISSION</span>      <span style="color: #FFD700;">"Building tomorrow's infrastructure, today"</span>  │</span>
+<span style="color: #00F7FF;">│  <span style="color: #FFFFFF;">• EXPERIENCE</span>   5+ Years Full-Stack Development           │</span>
+<span style="color: #00F7FF;">│  <span style="color: #FFFFFF;">• SPECIALTY</span>    High-Concurrency / Distributed Systems     │</span>
+<span style="color: #00F7FF;">│  <span style="color: #FFFFFF;">• AVAILABLE</span>    July 2026 (Open for Senior/Staff roles)    │</span>
+<span style="color: #00F7FF;">│                                                             │</span>
+<span style="color: #FFD700;">└─────────────────────────────────────────────────────────────┘</span>
+      </pre>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,nestjs,fastapi,go" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,aws,linux,nginx" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=jest,cypress,selenium,githubactions,postman,powershell" />
+    <td align="center" width="40%" valign="middle" style="padding: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=happyndlovu&show_icons=true&theme=dark&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&hide_border=true&hide_title=true&card_width=200" />
+      <br>
+      <img src="https://komarev.com/ghpvc/?username=happyndlovu&label=PROFILE+VIEWS&color=00F7FF&style=flat-square" />
     </td>
   </tr>
 </table>
 
----
+<br>
 
-### 🏗️ Architectural Portfolio (Live Deployments)
-
-<div align="center">
-
-| Project | Core Stack | Engineering Impact |
-| :--- | :--- | :--- |
-| **🏦 FinCore Banking** | `Spring Boot` `Redis` | Processed 10k+ daily transactions with 99.99% uptime. |
-| **📊 Analytix Dashboard** | `Next.js` `WebSockets` | Real-time telemetry visualization with <100ms latency. |
-| **🛍️ ScaleCart E-Comm** | `Node.js` `MongoDB` | Optimized query performance by 60% for 50k+ user base. |
-| **🔐 SecureAuth Gateway** | `NestJS` `JWT` | Implemented Enterprise SSO with zero security breaches. |
-| **🤖 AI Support Engine** | `Python` `TensorFlow` | Automated 85% of tier-1 support via NLP integration. |
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 </div>
 
----
+## ◆ TECHNICAL COMMAND CENTER
 
-### 📊 Engineering Analytics
+```ascii
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                      ║
+║   ██████╗ ████████╗ █████╗  ██████╗██╗  ██╗    ██╗███████╗██╗   ██╗███████╗████████╗ ║
+║   ██╔══██╗╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝    ██║██╔════╝██║   ██║██╔════╝╚══██╔══╝ ║
+║   ██████╔╝   ██║   ███████║██║     █████╔╝     ██║███████╗██║   ██║█████╗     ██║    ║
+║   ██╔══██╗   ██║   ██╔══██║██║     ██╔═██╗ ██  ██║╚════██║╚██╗ ██╔╝██╔══╝     ██║    ║
+║   ██║  ██║   ██║   ██║  ██║╚██████╗██║  ██╗╚█████╔╝███████║ ╚████╔╝ ███████╗   ██║    ║
+║   ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝ ╚════╝ ╚══════╝  ╚═══╝  ╚══════╝   ╚═╝    ║
+║                                                                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=happyndlovu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="400px"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyndlovu&layout=compact&theme=tokyonight&hide_border=true" width="400px"/></td>
-    </tr>
-    <tr>
-      <td colspan="2"><img src="https://github-readme-activity-graph.vercel.app/graph?username=happyndlovu&theme=tokyo-night&hide_border=true&area=true" width="820px"/></td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📡 System Connectivity
-```javascript
-const Happy_Ndlovu = {
-    role: "Full-Stack Engineer",
-    location: "Sandton / Kraaifontein, ZA",
-    availability: "Q3 2026 [High Demand]",
-    philosophy: "I break systems in QA so they never break in Production.",
-    metrics: {
-        contributions: 199,
-        uptime: "99.9%",
-        coffee_to_code_ratio: "Infinity"
-    }
+const q2_2025 = {
+  residency: { task: "Systems Development", progress: 80, eta: "June 2026" },
+  certification: { task: "AWS Solutions Architect Pro", progress: 60, eta: "Q3 2025" },
+  learning: { task: "Kubernetes Advanced Patterns", progress: 75, eta: "Q2 2025" },
+  research: { task: "LLM Fine-tuning for Code Gen", progress: 40, eta: "Q4 2025" }
 };
+
+// Actively seeking July 2026 opportunities
+const openToWork = {
+  roles: ["Senior Software Engineer", "Systems Architect", "Tech Lead"],
+  relocation: true,
+  remote: true,
+  contact: "happyjabu165@gmail.com"
+};
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+◆ CONNECT WITH ME
+<div align="center"> <a href="https://linkedin.com/in/happy-ndlovu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A"/></a> <a href="https://github.com/happyndlovu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A"/></a> <a href="https://instagram.com/happy.ndlovu.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0A0A"/></a> <a href="https://tiktok.com/@happy.codes"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0A0A0A"/></a> <a href="mailto:happyjabu165@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A"/></a> </div>
+<div align="center"> <pre style="background: #0A0A0A; padding: 20px; border-radius: 16px; color: #00F7FF; font-family: monospace;"> ╔═══════════════════════════════════════════════════════════════════════════╗ ║ 🚀 "Code is poetry compiled to reality. Let's build something legendary." ║ ║ ║ ║ 📅 Available July 2026 | 🌍 Global Remote | ✈️ Willing to relocate ║ ╚═══════════════════════════════════════════════════════════════════════════╝ </pre> </div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer&animation=twinkling" width="100%"/> </div> ```
